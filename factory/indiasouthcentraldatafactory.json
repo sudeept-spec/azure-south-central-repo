@@ -1,0 +1,16 @@
+{
+	"name": "indiasouthcentraldatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8cc61de0-cc62-4c70-889e-5ff700751f93",
+		"tenantId": "027f7f26-d290-463d-823b-ca3427ba6ec4"
+	}
+}
