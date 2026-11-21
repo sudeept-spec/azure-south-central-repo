@@ -1,0 +1,7 @@
+{
+	"name": "AzureDataLakeStorage16",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/351d870a-7617-4f49-8ebb-b07c55cf096e/resourceGroups/RG-India-South-Central/providers/Microsoft.Storage/storageAccounts/indiasouthcentralsa",
+		"groupId": "dfs"
+	}
+}
